@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.each-movie-container {
+  padding-left: 10px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.react-player-container {
+  padding: 20px;
+  cursor: pointer;
+}
+.pop-video-container {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border-radius: 10px;
+}
+.close-button {
+  display: flex;
+  align-self: flex-end;
+  background-color: transparent;
+  border-style: none;
+}
+.thumbnail-img {
+  height: 160px;
+  width: 160px;
+}
